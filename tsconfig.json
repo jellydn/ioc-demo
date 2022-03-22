@@ -7,9 +7,13 @@
     "types": [
       "reflect-metadata"
     ],
+    "outDir": "dist",
     "module": "commonjs",
     "moduleResolution": "node",
     "experimentalDecorators": true,
-    "emitDecoratorMetadata": true
-  }
+    "emitDecoratorMetadata": true,
+  },
+  "include": [
+    "src/**/*.ts"
+  ]
 }
