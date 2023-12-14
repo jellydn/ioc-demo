@@ -7,7 +7,7 @@
   "type": "module",
   "dependencies": {
     "inversify": "6.0.2",
-    "reflect-metadata": "0.1.14"
+    "reflect-metadata": "0.2.1"
   },
   "devDependencies": {
     "ts-node": "10.9.2",
