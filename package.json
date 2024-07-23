@@ -15,7 +15,7 @@
     "tsm": "2.3.0",
     "typescript": "5.5.4",
     "uvu": "0.5.6",
-    "xo": "0.59.0"
+    "xo": "0.59.2"
   },
   "scripts": {
     "test": "xo && uvu -r tsm tests"
