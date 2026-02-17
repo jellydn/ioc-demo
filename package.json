@@ -6,7 +6,7 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
-    "inversify": "6.2.2",
+    "inversify": "7.11.0",
     "reflect-metadata": "0.2.2"
   },
   "devDependencies": {
